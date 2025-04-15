@@ -69,16 +69,12 @@ source myenv/bin/activate  # Activate the virtual environment
     <tr>
       <th>Name</th>
       <th>Email Address</th>
-      <th>GitHub</th>
-      <th>URL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Rohit Chopra</td>
-      <td><a href="mailto:rohit.chopra@mygurukulam.co">rohit.chopra@mygurukulam.co</a></td>
-      <td>rohitchopra-mygurukulam</td>
-      <td><a href="https://github.com/rohitchopra-mygurukulam" target="_blank">https://github.com/rohitchopra-mygurukulam</a></td>
+      <td>Shubham Prasad</td>
+      <td><a href="mailto:shubham.prasad.snaatak@mygurukulam.co">shubham.prasad.snaatak@mygurukulam.co</a></td>
     </tr>
   </tbody>
 </table>
