@@ -27,10 +27,10 @@
   </tbody>
 </table>
 
-<h2>Purpose:</h2>
+<h2>1. Purpose:</h2>
 <p>This document provides a step-by-step guide to install and configure Gunicorn (Green Unicorn), a production-grade WSGI server for Python applications.</p>
 
-<h2>1. Prerequisites</h2>
+<h2>2. Prerequisites</h2>
 <ul>
   <li>A Linux-based system (Ubuntu/Debian/CentOS recommended)</li>
   <li>Python 3.6+ installed</li>
@@ -38,7 +38,7 @@
   <li>A Python web application (Flask/Django/FastAPI, etc.)</li>
 </ul>
 
-<h2>2. Installation Steps</h2>
+<h2>3. Installation Steps</h2>
 
 <h3>Step 1: Update System Packages</h3>
 <pre><code>sudo apt update && sudo apt upgrade -y  # For Debian/Ubuntu
@@ -63,7 +63,7 @@ source myenv/bin/activate  # Activate the virtual environment
 <pre><code>gunicorn --version
 </code></pre>
 
-<h2>Contact Information</h2>
+<h2>4. Contact Information</h2>
 <table>
   <thead>
     <tr>
@@ -79,7 +79,7 @@ source myenv/bin/activate  # Activate the virtual environment
   </tbody>
 </table>
 
-<h2>References</h2>
+<h2>5. References</h2>
 <table>
   <thead>
     <tr>
