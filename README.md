@@ -28,9 +28,9 @@
 </table>
 
 <h2>1. Purpose:</h2>
-<p>This document provides a step-by-step guide to install and configure Gunicorn (Green Unicorn), a production-grade WSGI server for Python applications.</p>
+<p>This document provides a step-by-step guide to install  <code>Gunicorn</code> (Green Unicorn) .</p>
 
-<h2>2. Prerequisites</h2>
+<h2>2. Prerequisites</h2
 <ul>
   <li>A Linux-based system (Ubuntu/Debian/CentOS recommended)</li>
   <li>Python 3.6+ installed</li>
