@@ -79,6 +79,21 @@ source myenv/bin/activate  # Activate the virtual environment
   </tbody>
 </table>
 
+<h2>References</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Links</th>
+      <th>Descriptions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04" target="_blank">https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04</a></td>
+      <td>Intro & Installation of Gunicorn</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
