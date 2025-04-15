@@ -1,6 +1,33 @@
 
 <h1>Standard Operating Procedure (SOP) for Gunicorn Installation & Setup</h1>
 
+<table>
+  <thead>
+    <tr>
+      <th>Author</th>
+      <th>Created on</th>
+      <th>Version</th>
+      <th>Internal-Reviewer</th>
+      <th>L0-Reviewer</th>
+      <th>L1-Reviewer</th>
+      <th>L2-Reviewer</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Shubham</td>
+      <td>15-04-25</td>
+      <td>version 1</td>
+      <td>Komal Jaiswal</td>
+      <td>Gaurav Singla</td>
+      <td>Rahul Gupta</td>
+      <td>Mahesh Kumar</td>
+      
+    </tr>
+  </tbody>
+</table>
+
 <h2>Purpose:</h2>
 <p>This document provides a step-by-step guide to install and configure Gunicorn (Green Unicorn), a production-grade WSGI server for Python applications.</p>
 
