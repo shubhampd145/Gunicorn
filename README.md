@@ -1,5 +1,7 @@
 
 <h1>Documentation Of Gunicorn Installation</h1>
+<p align="center">
+</p>
 
 <table>
   <thead>
