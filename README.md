@@ -61,3 +61,82 @@ source myenv/bin/activate  # Activate the virtual environment
 <p><strong>Verify installation:</strong></p>
 <pre><code>gunicorn --version
 </code></pre>
+
+<h2>Contact Information</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Shubham Prasad</td>
+      <td>shubham.prasad.snaatak@mygurukulam.co</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>References</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Links</th>
+      <th>Descriptions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.jenkins.io/doc/book/installing/linux/#debianubuntu" target="_blank">Jenkins Installation Guide</a></td>
+      <td>Document format followed from this link</td>
+    </tr>
+    <tr>
+      <td><a href="https://amplifi.com/user-guide/FAQs.html" target="_blank">Amplifi FAQs</a></td>
+      <td>Documentation referred for the table of contents to be included</td>
+    </tr>
+    <tr>
+      <td><a href="https://thecontentauthority.com/blog/introduction-vs-overview" target="_blank">Introduction vs Overview</a></td>
+      <td>This link explains the difference between Overview & Intro</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Pages: 3</h2>
+
+<h3>Find a page…</h3>
+<ul>
+  <li>Home</li>
+  <li>Application Template</li>
+  <li>Purpose</li>
+  <li>Pre-requisites</li>
+  <li>System Requirements</li>
+  <li>Dependencies
+    <ul>
+      <li>Build time Dependency</li>
+      <li>Run time Dependency</li>
+      <li>Other Dependency</li>
+    </ul>
+  </li>
+  <li>Important Ports</li>
+  <li>Others</li>
+  <li>Architecture</li>
+  <li>Dataflow Diagram</li>
+  <li>Step-by-step installation of [application]
+    <ul>
+      <li>Step1: Installation of software Dependencies
+        <ul>
+          <li>Build Dependency</li>
+          <li>Run time Dependency</li>
+          <li>Other Dependency</li>
+        </ul>
+      </li>
+      <li>Step2: Build/Artifact Generation</li>
+      <li>Step3: Application Deployment</li>
+    </ul>
+  </li>
+  <li>Monitoring
+    <ul>
+      <li>Metrics</li>
+      <
+
