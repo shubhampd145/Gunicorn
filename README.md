@@ -11,7 +11,6 @@
       <th>L0-Reviewer</th>
       <th>L1-Reviewer</th>
       <th>L2-Reviewer</th>
-      
     </tr>
   </thead>
   <tbody>
@@ -23,7 +22,6 @@
       <td>Gaurav Singla</td>
       <td>Rahul Gupta</td>
       <td>Mahesh Kumar</td>
-      
     </tr>
   </tbody>
 </table>
