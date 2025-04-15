@@ -63,21 +63,26 @@ source myenv/bin/activate  # Activate the virtual environment
 <pre><code>gunicorn --version
 </code></pre>
 
-<h2>4. Contact Information</h2>
+<h2>4. Contacts</h2>
 <table>
   <thead>
     <tr>
       <th>Name</th>
-      <th>Email address</th>
+      <th>Email Address</th>
+      <th>GitHub</th>
+      <th>URL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Shubham Prasad</td>
-      <td>shubham.prasad.snaatak@mygurukulam.co</td>
+      <td>Rohit Chopra</td>
+      <td><a href="mailto:rohit.chopra@mygurukulam.co">rohit.chopra@mygurukulam.co</a></td>
+      <td>rohitchopra-mygurukulam</td>
+      <td><a href="https://github.com/rohitchopra-mygurukulam" target="_blank">https://github.com/rohitchopra-mygurukulam</a></td>
     </tr>
   </tbody>
 </table>
+
 
 <h2>5. References</h2>
 <table>
