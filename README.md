@@ -78,29 +78,7 @@ source myenv/bin/activate  # Activate the virtual environment
   </tbody>
 </table>
 
-<h2>References</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Links</th>
-      <th>Descriptions</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://www.jenkins.io/doc/book/installing/linux/#debianubuntu" target="_blank">Jenkins Installation Guide</a></td>
-      <td>Document format followed from this link</td>
-    </tr>
-    <tr>
-      <td><a href="https://amplifi.com/user-guide/FAQs.html" target="_blank">Amplifi FAQs</a></td>
-      <td>Documentation referred for the table of contents to be included</td>
-    </tr>
-    <tr>
-      <td><a href="https://thecontentauthority.com/blog/introduction-vs-overview" target="_blank">Introduction vs Overview</a></td>
-      <td>This link explains the difference between Overview & Intro</td>
-    </tr>
-  </tbody>
-</table>
+
 
 
 
