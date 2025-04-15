@@ -16,14 +16,12 @@
 
 <h3>Step 1: Update System Packages</h3>
 <pre><code>sudo apt update && sudo apt upgrade -y  # For Debian/Ubuntu
-# OR
-sudo yum update -y  # For CentOS/RHEL
+
 </code></pre>
 
 <h3>Step 2: Install Python & pip (if not installed)</h3>
 <pre><code>sudo apt install python3 python3-pip python3-venv -y  # Debian/Ubuntu
-# OR
-sudo yum install python3 python3-pip -y  # CentOS/RHEL
+
 </code></pre>
 
 <h3>Step 3: Create a Virtual Environment (Recommended)</h3>
