@@ -1,5 +1,6 @@
+<details>
 <p align="center">
-<h1>Documentation Of Gunicorn Installation</h1>
+<summary><h1>Documentation Of Gunicorn Installation</h1></summary>
 </p>
 
 <table>
@@ -98,6 +99,6 @@ source myenv/bin/activate  # Activate the virtual environment
   </tbody>
 </table>
 
-
+</details>
 
 
